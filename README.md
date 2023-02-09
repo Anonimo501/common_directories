@@ -12,3 +12,8 @@ La idea del script es que en algunos momentos cuanto estamos en la etapa de enum
 
 ## descarga y uso
 
+git clone https://github.com/Anonimo501/common_directories.git
+
+cd common_directories
+
+python3 common_directories.py
